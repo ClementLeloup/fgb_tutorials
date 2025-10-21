@@ -14,3 +14,12 @@ All dependencies are found in `environment.yml`. The easiest way to install all 
 conda env create -f environment.yml
 conda activate fgb_xF
 ```
+
+FGBuster needs to be installed separately, preferably not in the tutorial directory, by following these steps:
+```
+git clone git@github.com:fgbuster/fgbuster.git
+cd fgbuster
+pip install -e .
+```
+
+We are now set to start playing with the notebooks.
