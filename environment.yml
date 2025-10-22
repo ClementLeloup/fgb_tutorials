@@ -127,4 +127,3 @@ dependencies:
     - sympy==1.14.0
     - toml==0.10.2
     - tqdm==4.67.1
-prefix: /home/cleloup/.conda/envs/fgb_xF
