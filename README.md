@@ -6,7 +6,7 @@ In this repository, I will show the most simple use of FGBuster as well as more 
 
 First to get the repo, run
 ```
-git clone https://https://github.com/ClementLeloup/fgb_tutorials.git
+git clone https://github.com/ClementLeloup/fgb_tutorials.git
 ```
 
 All dependencies are found in `environment.yml`. The easiest way to install all the required packages is to create a new conda environment via (the name of the environment can be changed directly in the file and needs to be adapted in the second command accordingly)
@@ -17,7 +17,7 @@ conda activate fgb_xF
 
 FGBuster needs to be installed separately, preferably not in the tutorial directory, by following these steps:
 ```
-git clone git@github.com:fgbuster/fgbuster.git
+git clone https://github.com/fgbuster/fgbuster.git
 cd fgbuster
 pip install -e .
 ```
