@@ -17,7 +17,7 @@ conda activate fgb_xF
 
 FGBuster needs to be installed separately, preferably not in the tutorial directory, by following these steps:
 ```
-git clone git@github.com:fgbuster/fgbuster.git
+git clone https://github.com/fgbuster/fgbuster.git
 cd fgbuster
 pip install -e .
 ```
